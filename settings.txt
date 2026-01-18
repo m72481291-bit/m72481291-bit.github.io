@@ -1,0 +1,10 @@
+# Файл настроек для Гидик - AI-проводника
+# Создайте API ключ на сайте https://openrouter.ai
+
+OPENROUTER_API_KEY=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
+MODEL=deepseek/deepseek-chat-v3-0324
+API_URL=https://openrouter.ai/api/v1/chat/completions
+
+# Дополнительные настройки (опционально)
+# MAX_TOKENS=1000
+# TEMPERATURE=0.7
